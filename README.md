@@ -60,7 +60,6 @@ http://localhost:8080/swagger-ui/index.html
 
 1. **Register:** POST /api/auth/register  
 2. **Login:** POST /api/auth/login (Returns a JWT).  
-3. **Authorize:** Paste the returned JWT into the Swagger global "Authorize" button using the format Bearer \<YOUR\_TOKEN\>.
 
 ### **Endpoint Summary**
 
